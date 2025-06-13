@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![httpsgithub abusaid me](https://github.com/said7388/github-portfolio/assets/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
+![httpsgithub abusaid me](https://github.com/Lord-JackSparrow/Lord-JackSparrow/77630868/a331f996-1b4d-451a-941f-a15f5ae6de93)
 
 
 ## View live preview [here](https://my-github-portfolio.netlify.app/)
@@ -71,20 +71,20 @@ Eg:
 NEXT_PUBLIC_GTM = ""
 ```
 
-### Now, you have to customize user data in the `data` [folder](https://github.com/said7388/developer-portfolio/tree/main/data).
+### Now, you have to customize user data in the `data` [folder](https://github.com/Lord-JackSparrow).
 
 Eg:
 
 ```javascript
 export const userData = {
-  githubUser: "said7388",
-  devUsername: "said7388",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
+  githubUser: "Lord-JackSparrow",
+  devUsername: "#",
+  github: "https://github.com/Lord-JackSparrow",
+  facebook: "https://www.facebook.com/",
+  linkedIn: "https://www.linkedin.com/",
+  twitter: "https://twitter.com/",
+  stackOverflow: "https://stackoverflow.com/users/",
+  leetcode: "https://leetcode.com/",
   resume:
     "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
   skills: [
